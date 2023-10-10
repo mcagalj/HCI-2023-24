@@ -68,8 +68,8 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 - The hero section will include a menu. Make menu items a Figma component.
 - Use auto-layout, auto-spacing, constraints features.
 - Deliverables:
-  - Record a short video (10-20sec) of your hero section frame. Prove that it is responsive and that can easily change look and feel of menu items.
-  - Upload the video to your repository (use the provided GitHub repo template to organize your files).
+  - Record a short video (10-20sec) of your hero section frame. Prove that it is responsive and that you can easily change look and feel of menu items.
+  - Upload the video to your repository (use the provided [GitHub repo template](https://github.com/mcagalj/HCI-2023-24-template.git) to organize your files).
 
 ### Za rad u laboratoriju
 

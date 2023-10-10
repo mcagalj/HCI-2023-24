@@ -6,8 +6,8 @@
 - [Zahtjevi web aplikacije](#zahtjevi-web-aplikacije)
 - [Demonstracija projekta](#demonstracija-projekta)
 - [Praktične vježbe](#praktične-vježbe)
-  - [Course mini projects](#course-mini-projects)
-    - [Project 1: Figma essentials](#project-1-figma-essentials)
+  - [Class projects](#class-projects)
+    - [Class project 1: Figma essentials](#class-project-1-figma-essentials)
   - [Za rad u laboratoriju](#za-rad-u-laboratoriju)
   - [Za samostalan rad](#za-samostalan-rad)
 
@@ -60,9 +60,9 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 
 ## Praktične vježbe
 
-### Course mini projects
+### Class projects
 
-#### Project 1: Figma essentials
+#### Class project 1: Figma essentials
 
 - Create a simple responsive hero section in Figma; elements/components in your Figma frame should nicely behave as you resize the corresponding parent frame.
 - The hero section will include a menu. Make menu items a Figma component.

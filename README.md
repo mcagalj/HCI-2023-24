@@ -2,8 +2,81 @@
 
 ## FESB, 2023/24 <!-- omit in toc -->
 
-**Instruktori: Ivan Kuliš i Mario Čagalj**
+- [Uvod](#uvod)
+- [Zahtjevi web aplikacije](#zahtjevi-web-aplikacije)
+- [Demonstracija projekta](#demonstracija-projekta)
+- [Praktične vježbe](#praktične-vježbe)
+  - [Course mini projects](#course-mini-projects)
+    - [Project 1: Figma essentials](#project-1-figma-essentials)
+  - [Za rad u laboratoriju](#za-rad-u-laboratoriju)
+  - [Za samostalan rad](#za-samostalan-rad)
 
 Cilj kolegija je upoznati studente sa važnim aspekatima procesa dizajna (sučelja) usmjerenog krajnjim korisnicima. Studenti će realizirati praktičan projekt u okviru kojeg će primjeniti odgovarajuće principe *dobrog dizajna*. Za realizaciju projekta koristiti će moderne tehnologije poput [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), [Figma](https://www.figma.com/), [headless CMS](https://jamstack.org/headless-cms/), Git i druge.
 
-Repozitorij će sadržavati upute, *code snippet*-e, konfiguracijske skripte, i razne sugestije s ciljem povećanja produktvnosti studenta tijekom rada na projektu.
+## Uvod
+
+Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije* i *evaluacije*. Vaš rad na projektu će se odvijati okvirno u sljedećim fazama:
+
+1. **Razumijevanje zadaća i korisnika koje aplikacija treba podržati**
+
+    > Vi niste tipičan korisnik. Ne znate koje zadaće su važne korisnicima. Da bi bili sigurni da imate dobar opis zadaća trebate ih evaluirati zajedno s korisnicima.
+
+    U procesu _user experience_ (UX) dizajna, vrlo važnu ulogu ima koncept **persone**. Persona predstavlja model osobe (arhetip), osobnosti i/ili ponašanja koji se izgradi na osnovu razgovora, intervjua, promatranja korisnika. Model osobe uključuje i sliku tog modela osobe. Vrijednost ovog alata u UX dizajnu proizlazi i činjenice da persone pomažu dizajnerima i developerima razviti suosjećanje sa krajnjim korisnicima, čime se smanjuje rizik razvoja produkta koji će biti neintuitivan i/ili težak za korištenje.
+
+    > [What are Personas?](https://youtu.be/XnG4c4gXaQY)
+
+2. **Izrada *low-fidelity* i *high-fidelity* prototipa i njihova evaluacija**
+
+    > Pokušajte odoljeti programerskom porivu da u ovoj fazi otvorite vaš preferirani editor i započnete programirati. U ovoj fazi razvoja projekta vaš dobar prijatelj su olovka i papir, razni grafički editori (npr. [Excalidraw](https://excalidraw.com/)), te alati za brzu izradu prototipa (npr. [Figma](https://www.figma.com), [Balsamiq](https://balsamiq.com/wireframes/), [Sketch](https://www.sketch.com/), [inVision](https://www.invisionapp.com/), [Draw.io](https://drawio-app.com/)).
+    >
+    >
+    > Provedite evaluaciju vašeg prototipa s kolegama ili profesorom i popravite uočene *usability bug*-ove.
+
+3. **Implementacija prototipa i njegova evaluacija**
+
+    U ovoj fazi konačno možete otvoriti svoj preferirani editor i započeti s implementacijom.
+
+    > Nemojte zaboraviti na evaluaciju u ovoj fazi (provedite heurističku evaluaciju vašeg produkta i/ili *usability testing* sa stvarnim korisnicima ako je to moguće).
+
+## Zahtjevi web aplikacije
+
+- [ ] Aplikacija će se koristiti iz web preglednika.
+- [ ] Koristiti će se na uređajima različite veličine.
+- [ ] Korisnik može pretraživati/filtrirati proizvode ili usluge.
+- [ ] Aplikacija će podržati logiranje korisnika za prikaz privatnog sadržaja.
+- [ ] Jedna od javnih stranica je blog koji treba sadržavati veći broj postova različitog sadržaja (slike, videa, *code snippets*).
+- [ ] Dio sadržaja aplikacije pohranjivati će se na udaljenom *headless* CMS sustavu (npr. [Contentful](https://www.contentful.com), [Strapi](https://strapi.io) i sl.) koji je prilagođen za jednostvano editiranje sadržaja. Detaljniji popis prikladnih CMS sustava dostupan je na [Jamstack](https://jamstack.org/headless-cms/).
+
+  > Student može po želji uključiti i druge sustave (lokalne ili udaljene) pohrane podatka.
+
+## Demonstracija projekta
+
+- [ ] Student će pokazati produkcijsku verziju projekta.
+- [ ] Produkcijska verzija projekta će biti postavljena *online* na odgovarajuću *cloud* platformu ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) ili neku sličnu).
+- [ ] Student će analizirati performanse aplikacije korištenjem sljedećih servisa:
+  - [https://web.dev/measure](https://web.dev/measure/)
+  - [https://www.webpagetest.org](https://www.webpagetest.org)
+  - Rezultati ove analize će biti dio finalnog izvještaja.
+
+## Praktične vježbe
+
+### Course mini projects
+
+#### Project 1: Figma essentials
+
+- Create a simple responsive hero section in Figma; elements/components in your Figma frame should nicely behave as you resize the corresponding parent frame.
+- The hero section will include a menu. Make menu items a Figma component.
+- Use auto-layout, auto-spacing, constraints features.
+- Deliverables:
+  - Record a short video (10-20sec) of your hero section frame. Prove that it is responsive and that can easily change look and feel of menu items.
+  - Upload the video to your repository (use the provided GitHub repo template to organize your files).
+
+### Za rad u laboratoriju
+
+- [Figma essentials and prototypes](/docs/figma-essentials-prototypes.md)
+
+### Za samostalan rad
+
+- [GitHub repository template](https://github.com/mcagalj/HCI-2023-24-template.git)
+- [JavaScript za rad s React-om](/docs/js-for-react.md)
+- [Learn Git branching by playing a game](https://learngitbranching.js.org/)

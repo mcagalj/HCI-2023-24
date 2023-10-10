@@ -23,7 +23,7 @@ We will cover the basics of creating low-fidelity and high-fidelity prototypes i
 Based on previously discovered typical users and typical tasks to be supported by your digital product, and before creating wireframes and prototypes, you should determine the best way to structure, label and organize information in your digital product/application. This will represent a blueprint of your application/website and is known as Information Architecture (IA). How you organize the information in your digital product will directly affect how users interact with it.
 
 > Information architecture (IA) helps users answer the question *“Where am I and where can I find information/service I’m looking for?”*.
-> 
+>
 
 Information architecture plays a crucial role in shaping sitemaps, wireframes, hierarchies, navigation, and metadata.
 
@@ -65,30 +65,35 @@ A sitemap is a visual representation of the structure and organization of a webs
 
 We will create our color palette based on brand colors (found in the company logo).
 
-- [ ]  Create a frame titled Color palette and put the logo inside.
-- [ ]  Open Foundation: Color Generator plugin and create your palette.
-- [ ]  Add colors from the palette to Local styles by using Create Styles button.
+- Create a frame titled Color palette and put the logo inside.
+- Open Foundation: Color Generator plugin and create your palette.
+- Add colors from the palette to Local styles by using Create Styles button.
 
 ### Layout Grid
 
-- [ ]  Create a new frame, set the size and give it a meaningful name.
-- [ ]  Add 12-columns equally spaced columns using Layout grid.
-- [ ]  Insert the logo, and resized it using Scale tool.
+- Create a new frame, set the size and give it a meaningful name.
+- Add 12-columns equally spaced columns using Layout grid.
+- Insert the logo, and resized it using Scale tool.
 
 ### Figma components and component variants
 
-- [ ]  Create a set of text boxes representing the main menu (select font, color, align and distribute evenly, etc.).
-- [ ]  To save the font, you can create Text styles as in the case of colors.
+- Create a set of text boxes representing the main menu (select font, color, align and distribute evenly, etc.).
+- To save the font, you can create Text styles as in the case of colors.
 
-> Notice how repetitive and time-consuming it can be to align menu elements manually each time. We will show later how Auto Layout feature makes this much easier and less time consuming.
-> 
-- [ ]  Let us highlight one menu item as being active (e.g., using a background rectangle). What if you decide to change the text of the active item? Does it fit the rectangle? What if you decide to highlight another item or update the font weight of all items? This process quickly escalates and becomes tedious. [Figma components and component variants](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma) come to rescue here.
+- See how repetitive and time-consuming it can be to align menu elements manually each time after some change. We will show later how auto layout feature makes this much easier and less time consuming.
 
-- [ ]  Create a master component representing a single menu item. Delete the existing menu and replace create the new by creating instances of the master component.
-- [ ]  Try to update some aspect of the master component. What do you observe? (Note: the component instances do not resize yet with the text - we will solve this later with Auto Layout).
-- [ ]  Let us finally create a component variant that represents an active state of the item. Try to apply it to your menu.
+- Let us highlight one menu item as being active (e.g., using a background rectangle). What if you decide to change the text of the active item? Does it fit the rectangle? What if you decide to highlight another item or update the font weight of all items? This process quickly escalates and becomes tedious. [Figma components and component variants](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma) come to rescue here.
+
+- Create a master component representing a single menu item. Delete the existing menu and replace create the new by creating instances of the master component.
+
+- Try to update some aspect of the master component. What do you observe?
+
+- Let us finally create a component variant that represents an active state of the item. Try to apply it to your menu.
+
+> The component instances do not resize yet with the text; we will address this issue using auto layout.
 
 ### Figma auto layout
 
-- [ ]  Add headline and subheadline; if lacking inspiration, consult ChatGPT.
-- [ ]  Try to group and align elements using Auto layout which behaves similar to the CSS Flexbox one-dimensional layout model.
+- Add headline and subheadline; if lacking inspiration, consult ChatGPT.
+
+- Try to group and align elements using Auto layout which behaves similar to the CSS Flexbox one-dimensional layout model.

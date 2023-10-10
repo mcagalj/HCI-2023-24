@@ -40,20 +40,20 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 
 ## Zahtjevi web aplikacije
 
-- [ ] Aplikacija će se koristiti iz web preglednika.
-- [ ] Koristiti će se na uređajima različite veličine.
-- [ ] Korisnik može pretraživati/filtrirati proizvode ili usluge.
-- [ ] Aplikacija će podržati logiranje korisnika za prikaz privatnog sadržaja.
-- [ ] Jedna od javnih stranica je blog koji treba sadržavati veći broj postova različitog sadržaja (slike, videa, *code snippets*).
-- [ ] Dio sadržaja aplikacije pohranjivati će se na udaljenom *headless* CMS sustavu (npr. [Contentful](https://www.contentful.com), [Strapi](https://strapi.io) i sl.) koji je prilagođen za jednostvano editiranje sadržaja. Detaljniji popis prikladnih CMS sustava dostupan je na [Jamstack](https://jamstack.org/headless-cms/).
+- Aplikacija će se koristiti iz web preglednika.
+- Koristiti će se na uređajima različite veličine.
+- Korisnik može pretraživati/filtrirati proizvode ili usluge.
+- Aplikacija će podržati logiranje korisnika za prikaz privatnog sadržaja.
+- Jedna od javnih stranica je blog koji treba sadržavati veći broj postova različitog sadržaja (slike, videa, *code snippets*).
+- Dio sadržaja aplikacije pohranjivati će se na udaljenom *headless* CMS sustavu (npr. [Contentful](https://www.contentful.com), [Strapi](https://strapi.io) i sl.) koji je prilagođen za jednostvano editiranje sadržaja. Detaljniji popis prikladnih CMS sustava dostupan je na [Jamstack](https://jamstack.org/headless-cms/).
 
   > Student može po želji uključiti i druge sustave (lokalne ili udaljene) pohrane podatka.
 
 ## Demonstracija projekta
 
-- [ ] Student će pokazati produkcijsku verziju projekta.
-- [ ] Produkcijska verzija projekta će biti postavljena *online* na odgovarajuću *cloud* platformu ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) ili neku sličnu).
-- [ ] Student će analizirati performanse aplikacije korištenjem sljedećih servisa:
+- Student će pokazati produkcijsku verziju projekta.
+- Produkcijska verzija projekta će biti postavljena *online* na odgovarajuću *cloud* platformu ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) ili neku sličnu).
+- Student će analizirati performanse aplikacije korištenjem sljedećih servisa:
   - [https://web.dev/measure](https://web.dev/measure/)
   - [https://www.webpagetest.org](https://www.webpagetest.org)
   - Rezultati ove analize će biti dio finalnog izvještaja.

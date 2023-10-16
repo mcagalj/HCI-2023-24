@@ -7,7 +7,6 @@
 - [Demonstracija projekta](#demonstracija-projekta)
 - [Praktične vježbe](#praktične-vježbe)
   - [Class projects](#class-projects)
-    - [Class project 1: Figma essentials](#class-project-1-figma-essentials)
   - [Za rad u laboratoriju](#za-rad-u-laboratoriju)
   - [Za samostalan rad](#za-samostalan-rad)
 
@@ -17,7 +16,7 @@ Cilj kolegija je upoznati studente sa važnim aspekatima procesa dizajna (sučel
 
 Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije* i *evaluacije*. Vaš rad na projektu će se odvijati okvirno u sljedećim fazama:
 
-1. **Razumijevanje zadaća i korisnika koje aplikacija treba podržati**
+1. **Razumijevanje korisnika i njihovih zadaća**
 
     > Vi niste tipičan korisnik. Ne znate koje zadaće su važne korisnicima. Da bi bili sigurni da imate dobar opis zadaća trebate ih evaluirati zajedno s korisnicima.
 
@@ -62,14 +61,9 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 
 ### Class projects
 
-#### Class project 1: Figma essentials
-
-- Create a simple responsive hero section in Figma; elements/components in your Figma frame should nicely behave as you resize the corresponding parent frame.
-- The hero section will include a menu. Make menu items a Figma component.
-- Use auto-layout, auto-spacing, constraints features.
-- Deliverables:
-  - Record a short video (10-20sec) of your hero section frame. Prove that it is responsive and that you can easily change look and feel of menu items. You can use [OBS Studio](https://obsproject.com/) for recording.
-  - Upload the video to your repository (use the provided [GitHub repo template](https://github.com/mcagalj/HCI-2023-24-template.git) to organize your files).
+1. [Figma essentials](/docs/class-projects/class-project-1.md)
+2. [Personas, information architecture and sitemaps](/docs/class-projects/class-project-2.md)
+3. [Deploying Next.js application](/docs/class-projects/class-project-3.md)
 
 ### Za rad u laboratoriju
 

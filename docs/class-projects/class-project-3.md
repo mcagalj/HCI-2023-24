@@ -14,8 +14,8 @@ In this project, you will leverage the sitemap created in the previous stage to 
 
 2. **Deploy to Vercel or Netlify:**
    - Deploy your early Next.js draft webpage to Vercel or Netlify for public access.
-   - Ensure that the deployed version reflects your project's current state.
    - Test the navigation.
+   - [Deploying Your Next.js App](https://nextjs.org/learn/basics/deploying-nextjs-app/deploy)
 
 **Deliverables:**
 

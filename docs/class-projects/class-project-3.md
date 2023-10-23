@@ -1,4 +1,4 @@
-# Class Project 3: Next.js Web Development
+# Class Project 3: Next.js - Deploying Application
 
 **Project Description:**
 

@@ -63,14 +63,25 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 
 1. [Figma essentials](/docs/class-projects/class-project-1.md)
 2. [Personas, information architecture and sitemaps](/docs/class-projects/class-project-2.md)
-3. [Deploying Next.js application](/docs/class-projects/class-project-3.md)
+3. [Next.js - Deploying Application](/docs/class-projects/class-project-3.md)
+4. [Low/High-fidelity prototype](/docs/class-projects/class-project-4.md)
+5. [Next.js - Dynamic routes, data fetching](/docs/class-projects/class-project-5.md)
 
 ### Za rad u laboratoriju
 
 - [Figma essentials and prototypes](/docs/figma-essentials-prototypes.md)
+- [Next.js](https://nextjs.org/docs/app/building-your-application)
+  - [Routing Fundamentals](https://nextjs.org/docs/app/building-your-application/routing)
+  - [Pages and Layouts](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
+  - [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
+  - [Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
+  - [Data Fetching (on the server)](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating)
 
 ### Za samostalan rad
 
 - [GitHub repository template](https://github.com/mcagalj/HCI-2023-24-template.git)
+- [JavaScript tutorial](https://www.javascripttutorial.net/)
+  - [JavaScript Event Loop](https://www.javascripttutorial.net/javascript-event-loop/)
 - [JavaScript za rad s React-om](/docs/js-for-react.md)
+- [TypeScript tutorial](https://www.typescripttutorial.net/)
 - [Learn Git branching by playing a game](https://learngitbranching.js.org/)

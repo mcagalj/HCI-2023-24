@@ -53,13 +53,13 @@ const a = "foo",
 o = { a: a, b: b, c: c };
 console.log(o); // { a: 'foo', b: 42, c: {} }
 
-// modern way (EC6+)
+// modern way (ES6+)
 o = { a, b, c };
 console.log(o); // { a: 'foo', b: 42, c: {} }
 
 ```
 
-Koncizna inicjalizacija metoda u objektu:
+Koncizna inicijalizacija metoda u objektu:
 
 ```js
 // old way
@@ -70,7 +70,7 @@ const securityService = {
 };
 console.log(securityService); // { isAuthenticated: [Function: isAuthenticated] }
 
-// modern JavaScript (EC6+)
+// modern JavaScript (ES6+)
 const securityService = {
   isAuthenticated(user) {
     return false;
@@ -122,7 +122,7 @@ let role = user.role;
 let followers = user.followers;
 console.log(name, role, followers); // Jean admin 10
 
-// modern EC6+ way
+// modern ES6+ way
 const { name, role, followers } = user;
 console.log(name, role, followers); // Jean admin 10
 

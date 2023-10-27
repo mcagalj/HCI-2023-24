@@ -79,9 +79,14 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 
 ### Za samostalan rad
 
+> NEW: [Learn Next.js](https://nextjs.org/learn)
+
 - [GitHub repository template](https://github.com/mcagalj/HCI-2023-24-template.git)
 - [JavaScript tutorial](https://www.javascripttutorial.net/)
   - [JavaScript Event Loop](https://www.javascripttutorial.net/javascript-event-loop/)
 - [JavaScript za rad s React-om](/docs/js-for-react.md)
 - [TypeScript tutorial](https://www.typescripttutorial.net/)
 - [Learn Git branching by playing a game](https://learngitbranching.js.org/)
+
+
+

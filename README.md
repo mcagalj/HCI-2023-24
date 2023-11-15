@@ -66,6 +66,7 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 3. [Next.js - Deploying Application](/docs/class-projects/class-project-3.md)
 4. [Low/High-fidelity prototype](/docs/class-projects/class-project-4.md)
 5. [Next.js - Dynamic routes, data fetching](/docs/class-projects/class-project-5.md)
+6. [Full Responsive Page Coding](/docs/class-projects/class-project-6.md)
 
 ### Za rad u laboratoriju
 

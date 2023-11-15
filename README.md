@@ -76,6 +76,8 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
   - [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
   - [Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
   - [Data Fetching (on the server)](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating)
+- [Tailwind: Responsive Design](https://tailwindcss.com/docs/responsive-design)
+- [Learn React: Updating Objects in State](https://react.dev/learn/updating-objects-in-state)
 
 ### Za samostalan rad
 

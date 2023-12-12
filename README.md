@@ -42,7 +42,7 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 - Aplikacija će se koristiti iz web preglednika.
 - Koristiti će se na uređajima različite veličine.
 - Korisnik može pretraživati/filtrirati proizvode ili usluge.
-- Aplikacija će podržati logiranje korisnika za prikaz privatnog sadržaja.
+- ~~Aplikacija će podržati logiranje korisnika za prikaz privatnog sadržaja.~~
 - Jedna od javnih stranica je blog koji treba sadržavati veći broj postova različitog sadržaja (slike, videa, *code snippets*).
 - Dio sadržaja aplikacije pohranjivati će se na udaljenom *headless* CMS sustavu (npr. [Contentful](https://www.contentful.com), [Strapi](https://strapi.io) i sl.) koji je prilagođen za jednostvano editiranje sadržaja. Detaljniji popis prikladnih CMS sustava dostupan je na [Jamstack](https://jamstack.org/headless-cms/).
 
@@ -52,8 +52,7 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 
 - Student će pokazati produkcijsku verziju projekta.
 - Produkcijska verzija projekta će biti postavljena *online* na odgovarajuću *cloud* platformu ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) ili neku sličnu).
-- Student će analizirati performanse aplikacije korištenjem sljedećih servisa:
-  - [https://web.dev/measure](https://web.dev/measure/)
+- Student će analizirati performanse aplikacije korištenjem sljedećeg servisa:
   - [https://www.webpagetest.org](https://www.webpagetest.org)
   - Rezultati ove analize će biti dio finalnog izvještaja.
 
@@ -67,6 +66,11 @@ Dizajn je iterativni postupak u kojem iteriramo faze *dizajna*, *implementacije*
 4. [Low/High-fidelity prototype](/docs/class-projects/class-project-4.md)
 5. [Next.js - Dynamic routes, data fetching](/docs/class-projects/class-project-5.md)
 6. [Full Responsive Page Coding](/docs/class-projects/class-project-6.md)
+7. Weekly progress, status and problems (1/4)
+8. Weekly progress, status and problems (2/4)
+9. Weekly progress, status and problems (3/4)
+10. Weekly progress, status and problems (4/4)
+
 
 ### Za rad u laboratoriju
 
